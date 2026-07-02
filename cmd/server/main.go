@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/your-org/go-backend-template/internal/router"
+	"github.com/mmarci96/go-backend-template/internal/router"
 )
 
 var version = "dev"

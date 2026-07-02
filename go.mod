@@ -1,4 +1,4 @@
-module github.com/your-org/go-backend-template
+module github.com/mmarci96/go-backend-template
 
 go 1.25.0
 

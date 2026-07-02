@@ -2,8 +2,8 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/your-org/go-backend-template/internal/handler"
-	"github.com/your-org/go-backend-template/internal/middleware"
+	"github.com/mmarci96/go-backend-template/internal/handler"
+	"github.com/mmarci96/go-backend-template/internal/middleware"
 )
 
 func New() *gin.Engine {

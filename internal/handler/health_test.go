@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/gin-gonic/gin"
-	"github.com/your-org/go-backend-template/internal/handler"
+	"github.com/mmarci96/go-backend-template/internal/handler"
 )
 
 func TestHealth(t *testing.T) {
